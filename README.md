@@ -41,3 +41,19 @@ Screenshot
 ----------
 
 ![Screenshot](screenshot.jpg)
+
+
+Available patterns
+------------------
+
+- `*text*` ... format text **italic**
+- `**text**` ... format text **bold**
+- `# text` ... format text as **h1**
+- `## text` ... format text as **h2**
+- `### text` ... format text as **h3**
+- `#### text` ... format text as **h4**
+- `##### text` ... format text as **h5**
+- `###### text` ... format text as **h6**
+- `1. text` ... start creating an **ordered list**
+- `* text` ... start creating an **unordered list**
+- `- text` ... start creating an **unordered list**
