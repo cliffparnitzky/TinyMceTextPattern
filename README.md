@@ -9,8 +9,6 @@ Special TinyMCE plugin that matches special patterns in the text and applies for
 
 The sources of this plugin could be found [here](http://www.tinymce.com/wiki.php/Plugin:textpattern).
 
-Now for TinyMCE 4.
-
 
 Installation
 ------------
