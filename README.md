@@ -43,8 +43,14 @@ Screenshot
 ![Screenshot](screenshot.jpg)
 
 
-Available patterns
-------------------
+Additional information
+----------------------
+
+### Special notes
+
+There is nothing special to pay attention to.
+
+### Available patterns
 
 - `*text*` ... format text **italic**
 - `**text**` ... format text **bold**
@@ -57,3 +63,17 @@ Available patterns
 - `1. text` ... start creating an **ordered list**
 - `* text` ... start creating an **unordered list**
 - `- text` ... start creating an **unordered list**
+
+### Information in the wiki
+
+#### Create a new ...
+
+* [Creating a new plugin](wiki/Creating-a-new-plugin)
+* [Creating a new setup](wiki/Creating-a-new-setup)
+
+#### Installation hints
+* [Install manually](wiki/Install-manually)
+
+#### Bug report hints
+
+* [Report a bug](wiki/Report-a-bug)
